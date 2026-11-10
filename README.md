@@ -1,1 +1,1 @@
-Sebuah aplikasi berbasi AI untuk memprediksi Rupiah terhadap dollar
+Sebuah aplikasi berbasis AI untuk memprediksi Rupiah terhadap dollar
