@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # USD/IDR Currency Forecasting & Volatility Platform 📈
 
 Aplikasi prediksi dan analisis runut waktu (*time-series forecasting*) nilai tukar mata uang Rupiah terhadap Dolar AS (USD/IDR) yang membandingkan berbagai paradigma model:
@@ -45,3 +46,6 @@ Aplikasi prediksi dan analisis runut waktu (*time-series forecasting*) nilai tuk
 - **Visualisasi Interaktif Plotly**: Grafik perbandingan data aktual vs semua model, candlestick/garis historis, heatmap korelasi makro, dan indikator teknikal (MA50, MA200).
 - **Pemodelan Volatilitas GARCH**: Mengukur lonjakan risiko dan ketidakpastian pasar.
 - **Proyeksi Masa Depan (Forecasting N-Days)**: Estimasi pergerakan kurs beberapa hari ke depan lengkap dengan *95% Confidence Interval Band*.
+=======
+Sebuah aplikasi berbasis AI untuk memprediksi Rupiah terhadap dollar
+>>>>>>> c96a9918e3f0f7b750fb3e5cc60f30a34796c9e0
